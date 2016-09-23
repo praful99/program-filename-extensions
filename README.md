@@ -14,7 +14,7 @@
 | Perl          | .pl                   |
 | PHP           | .php                  |
 | Python        | .py                   |
-| Ruby    			| .rb 					        |
+| R 			| .r 					|
+| Ruby    		| .rb 					|
 | Simula        | .sim                  |
 | Swift         | .swift                |
-| R 			| .r 					|
